@@ -1,152 +1,170 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Anwesha%20Bhadury&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Hackathon%20Winner%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:111827,100:1e293b&height=260&section=header&text=ANWESHA%20BHADURY&fontSize=54&fontColor=e6edf3&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descAlignY=62&descSize=18&descColor=8b9cb3" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I'm+Anwesha;Full-Stack+Developer+%7C+React+%2B+Next.js+%2B+Node.js;Freelancer+with+6+production+projects+shipped+%F0%9F%9A%80;IIT+Guwahati+Research+Intern+%E2%80%A2+Hackathon+Winner+%F0%9F%8F%86;Currently+OPEN+TO+WORK+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=8B9CB3&background=00000000&center=true&vCenter=true&width=760&lines=Building+scalable+web+applications+end+to+end;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Python;Research+Intern+%40+IIT+Guwahati+%C2%B7+Hackathon+Winner;Available+for+full-time+roles+and+freelance+work" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0d1117?style=flat-square&labelColor=161b22&color=2ea043" />
+<img src="https://img.shields.io/badge/ROLE-FULL--STACK%20DEVELOPER-0d1117?style=flat-square&labelColor=161b22&color=1f6feb" />
+<img src="https://img.shields.io/badge/LOCATION-WEST%20BENGAL%2C%20INDIA-0d1117?style=flat-square&labelColor=161b22&color=6e7681" />
+<img src="https://komarev.com/ghpvc/?username=AnweshaBhadury&label=PROFILE%20VIEWS&color=161b22&labelColor=0d1117&style=flat-square" />
+
+<br/><br/>
+
+<a href="https://anwesha-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" /></a>
+<a href="https://www.linkedin.com/in/anwesha-bhadury-751376286/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" /></a>
+<a href="mailto:anweshabhadury5@gcetts.ac.in"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=161b22" /></a>
+
+</div>
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-Full--Stack_Developer-22c55e?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=AnweshaBhadury&label=Profile+Views&color=8b5cf6&style=for-the-badge)
+## About
 
-</div>
+Final-year B.Tech Computer Science student with both **research** and **production** experience. I build full-stack applications with React, Next.js and Node.js, and I'm interested in applying algorithms and AI/ML to real-world problems. I focus on clean architecture, performance and reliable deployment.
 
----
-
-## 👩‍💻 About Me
-
-```js
-const anwesha = {
-  role: "Full-Stack Developer",
-  education: "B.Tech CSE (2023-2027) @ GCETT, Serampore",
-  cgpa: "8.26 (up to 6th semester)",
-  location: "West Bengal, India 🇮🇳",
-  stack: ["React", "Next.js", "Node.js", "Python", "Sanity CMS"],
-  experience: ["IIT Guwahati Research Intern", "Freelance Developer @ Erfolgwerke IT"],
-  lookingFor: "Full-time roles • Internships • Freelance • Collaborations",
-  funFact: "I turn coffee ☕ into code and ideas into products."
-};
+```yaml
+name:        Anwesha Bhadury
+role:        Full-Stack Developer
+education:   B.Tech CSE, GCETT Serampore (2023 - 2027), CGPA 8.26
+experience:  Freelance Developer @ Erfolgwerke IT | Research Intern @ IIT Guwahati
+focus:       Web Applications, CMS-driven Backends, Algorithms, Computer Vision
+languages:   English (Fluent), Hindi (Fluent), Bengali (Native)
+seeking:     Full-time roles, internships, freelance and collaborations
 ```
 
-> 💡 Fourth-year CSE student with both **research** and **production** experience, looking to build scalable applications and grow as a software engineer.
+<br/>
 
----
+## Experience
 
-## 🚀 I'm Looking For Work!
+<table>
+<tr>
+<td width="180" valign="top"><b>Sep 2025 – Present</b></td>
+<td>
+<b>Freelance Developer</b>, Erfolgwerke IT<br/>
+<sub>
+• Built backends using <b>Sanity CMS, Node.js and React</b> with optimized <b>GROQ</b> queries<br/>
+• Delivered <b>6 production-level projects</b> deployed for the company<br/>
+• Managed deployment and self-hosted servers: configuration, troubleshooting, maintenance<br/>
+• Handled testing, debugging and client communication; mentored teammates on <b>Frappe</b> and <b>ERPNext</b>
+</sub>
+</td>
+</tr>
+<tr>
+<td width="180" valign="top"><b>Jun 2025 – Aug 2025</b></td>
+<td>
+<b>Summer Research Intern</b>, IIT Guwahati<br/>
+<sub>
+• Implemented <b>Prim's algorithm for MST using a Fibonacci Heap</b><br/>
+• Optimized priority queue operations to improve theoretical complexity<br/>
+• Research conducted under Prof. Gautam Kumar Das, Dept. of Mathematics
+</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Recognition
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>Winner, Innova Hackathon 2025</b><br/>
+<sub>Led team "404 Not Found" at Geogo Tech Solutions and delivered the winning solution.</sub>
+</td>
+<td width="50%" valign="top">
+<b>Top 10, Oracle APEX XCELerate 2025</b><br/>
+<sub>National hackathon by INOAUG, placed among 125+ student teams across India.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI-Based PII Masking Web App
+*Innova Hackathon Winner*
+
+Detects and blurs sensitive identifiers (Aadhaar and PAN card numbers and photos) in images and real-time video uploads to protect personal data.
+
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+<img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+<img src="https://img.shields.io/badge/EasyOCR-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/MediaPipe-161b22?style=flat-square" />
+
+[View repository](https://github.com/AnweshaBhadury)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio Website
+*Live at anwesha-portfolio.vercel.app*
+
+Dynamic portfolio with an admin panel for content management, covering projects, blog and contact sections.
+
+<img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+
+[View live site](https://anwesha-portfolio.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Technical Skills
 
 <div align="center">
 
-| 🎯 What I'm after | 💼 What I bring |
-|:---|:---|
-| Full-Stack / Software Developer roles | 7 production projects delivered as a freelancer |
-| Internships & entry-level positions | Hands-on deployment & self-hosted server management |
-| Freelance / contract projects | Research background (IIT Guwahati) + strong DSA |
-| Open-source collaboration | Leadership: hackathon-winning team lead |
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nextjs,tailwind,nodejs,mysql,opencv,numpy,git,github,vscode,linux&theme=dark&perline=16" />
 
-### 📬 **Have an opportunity? Let's talk!**
+<br/><br/>
 
-[![Email Me](https://img.shields.io/badge/Email_Me-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anweshabhadury5@gcetts.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-bhadury-751376286/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ec4899?style=for-the-badge&logo=vercel&logoColor=white)](https://anwesha-portfolio.vercel.app/)
+<img src="https://img.shields.io/badge/Sanity%20CMS-161b22?style=flat-square&logo=sanity&logoColor=F03E2F" />
+<img src="https://img.shields.io/badge/GROQ-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Structures-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/Algorithms-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-161b22?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## 💼 Experience
-
-**🧑‍💻 Freelance Developer — Erfolgwerke IT** `Sep 2025 – Present`
-- Built backends with **Sanity CMS, Node.js & React**, including optimized **GROQ** queries
-- Delivered **6 production-level projects** deployed for the company
-- Handled testing, debugging, technical copywriting and client/lead email communication
-- Managed project deployment and self-hosted servers (configuration, troubleshooting, maintenance)
-- Mentored teammates on **Frappe Framework** and **ERPNext**
-
-**🔬 Summer Research Intern — IIT Guwahati** `Jun 2025 – Aug 2025`
-- Implemented **Prim's Algorithm for MST using a Fibonacci Heap**
-- Optimized priority queue operations for better theoretical complexity
-- Research under **Prof. Gautam Kumar Das** (Dept. of Mathematics)
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner, Innova Hackathon 2025** (Geogo Tech Solutions) as team leader of **"404 Not Found"**
-- 🌟 **Top 10, Oracle APEX XCELerate 2025**, a national hackathon by INOAUG, out of 125+ student teams across India
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|:---|:---|:---|
-| 🛡️ **AI-based PII Masking Web App** <br/> *(Innova Hackathon Winner)* | Detects and blurs Aadhaar & PAN card numbers and photos in images and real-time video uploads to protect personal data | `Python` `Streamlit` `OpenCV` `EasyOCR` `MediaPipe` `NumPy` |
-| 🌐 **Portfolio Website** | Dynamic portfolio with an admin panel for content management, plus projects, blog and contact sections | `Next.js` `React` `Tailwind CSS` |
-
-👉 [View PII Masking Web App](https://github.com/AnweshaBhadury) · [View Portfolio](https://anwesha-portfolio.vercel.app/)
-
----
-
-## 🛠️ Tech Stack
+## GitHub Activity
 
 <div align="center">
 
-**Languages**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnweshaBhadury&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b9cb3&icon_color=1f6feb&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnweshaBhadury&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b9cb3&text_color=c9d1d9" />
 
-<img src="https://skillicons.dev/icons?i=py,c,js,html,css" />
-
-**Frontend & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
-
-![Sanity](https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
-![GROQ](https://img.shields.io/badge/GROQ-8b5cf6?style=for-the-badge)
-
-**Database, AI/CV & Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,opencv,numpy,git,github,vscode,linux" />
-
-**Core Concepts:** `Data Structures` · `Algorithms` · `OOP`
+<img src="https://streak-stats.demolab.com?user=AnweshaBhadury&hide_border=true&background=0d1117&stroke=30363d&ring=1f6feb&fire=1f6feb&currStreakLabel=c9d1d9&sideLabels=8b9cb3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" />
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+## Get in Touch
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnweshaBhadury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnweshaBhadury&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=AnweshaBhadury&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
----
-
-## 🌱 Currently
-
-- 🔭 Shipping client projects as a freelance full-stack developer
-- 🧠 Exploring AI/ML and bringing it into real-world web apps
-- 📚 Sharpening DSA and system design
-- 🗣️ Languages: English (Fluent) · Hindi (Fluent) · Bengali (Native)
-
----
+I'm actively looking for **full-time software and full-stack roles**, internships, and freelance projects. If you think I'd be a good fit, feel free to reach out.
 
 <div align="center">
 
-### 🤝 Let's Connect
+<a href="mailto:anweshabhadury5@gcetts.ac.in"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=161b22" /></a>
+<a href="https://www.linkedin.com/in/anwesha-bhadury-751376286/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22" /></a>
+<a href="https://anwesha-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161b22" /></a>
 
-If you're hiring or building something exciting, my inbox is always open. 💌
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anweshabhadury5@gcetts.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anwesha-bhadury-751376286/)
-
-*⭐ If you like my work, drop a star on my repos!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1e293b&height=110&section=footer" width="100%" />
 
 </div>
