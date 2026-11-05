@@ -40,7 +40,7 @@ const anwesha = {
 
 | 🎯 What I'm after | 💼 What I bring |
 |:---|:---|
-| Full-Stack / Software Developer roles | 6 production projects delivered as a freelancer |
+| Full-Stack / Software Developer roles | 7 production projects delivered as a freelancer |
 | Internships & entry-level positions | Hands-on deployment & self-hosted server management |
 | Freelance / contract projects | Research background (IIT Guwahati) + strong DSA |
 | Open-source collaboration | Leadership: hackathon-winning team lead |
